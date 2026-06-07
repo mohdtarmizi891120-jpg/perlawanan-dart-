@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Perlawanan Dart",
+  "description": "Pengira skor perlawanan dart 301, 501, dan Cricket interaktif dengan statistik pemain, papan dart digital, dan sejarah pusingan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
